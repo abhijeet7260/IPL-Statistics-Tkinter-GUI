@@ -1,1 +1,1 @@
-# IPL-Statistics-2008-16
+# IPL Statistics with Simple Gui using Tkinter
