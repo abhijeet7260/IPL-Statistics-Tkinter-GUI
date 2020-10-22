@@ -18,3 +18,9 @@ A Python Project for studying the data analysis and visualization using numpy,pa
     ```
     $python3 main.py
     ```
+<br>
+<h3>Contribution</h3>
+
+1. Naman Upadhyay
+2. Aastha Sakshi 
+3. Vaishnav Nandre
