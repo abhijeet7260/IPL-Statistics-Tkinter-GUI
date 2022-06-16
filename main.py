@@ -76,7 +76,7 @@ with war.catch_warnings():
     plt.ylabel("No. of Matches----->")
     plt.xlabel('Teams----->')
     plt.title("Total matches played vs Matches Won")
-    plt.xticks(ind + width / 2, ('MI', 'KKR', 'RCB', 'SRH', 'CSK', 'RR', 'DD', 'KXIP', 'SRH'))
+    plt.xticks(ind + width / 2, ('MI', 'KKR', 'RCB', 'CSK', 'RR', 'DD', 'KXIP', 'SRH'))
     autolabel(rect4)
     autolabel(rect5)
     plt.legend(loc='best')
